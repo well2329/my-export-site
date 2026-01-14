@@ -10,9 +10,9 @@ draft: false
 
 We are a professional manufacturer of **motorcycle handlebar switches** located in **Anhui Province, China**. With our own modern factory and independent brand, we specialize in designing, producing, and exporting high-quality switch assemblies for motorcycles, scooters, and electric bikes.
 
-- More than 10 years of experience in the motorcycle electrical parts industry  
+- More than 30 years of experience in the motorcycle electrical parts industry  
 - In-house production: molding, assembly, testing, and quality control  
-- Monthly capacity: 200,000+ units  
+- Monthly capacity: 10,000+ units  
 - Exported to Europe, South America, Southeast Asia, and the Middle East  
 
 We focus on durability, waterproof performance, and compatibility with major brands (Honda, Yamaha, Suzuki, Bajaj, TVS, etc.).
