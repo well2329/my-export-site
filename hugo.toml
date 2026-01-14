@@ -1,6 +1,6 @@
 baseURL = "http://localhost/"
 languageCode = "en-us"
-title = "Premium Motorcycle Handlebar Switches"  # 改成你的产品标题
+title = "Premium Motorcycle Handlebar Switches"  
 theme = "PaperMod"
 
 [menu]
@@ -27,23 +27,20 @@ theme = "PaperMod"
   ShowBreadCrumbs = false
   ShowCodeCopyButtons = false
 
-  # 专业配色（工业风深蓝）
   primaryColor = "#0d47a1"
   secondaryColor = "#ffffff"
   textColor = "#333333"
   backgroundColor = "#f8f9fa"
 
-  # 开启 profileMode – 这是首页大图/英雄区的正确方式！
   #[params.profileMode]
   # enabled = true
    # title = "Premium Motorcycle Handlebar Switches"
    #subtitle = "Reliable Manufacturer from Anhui, China – Own Factory & Brand"
-   #imageUrl = "/images/hero.jpg"  # 你的工厂图路径（注意小写 .jpg，如果文件是大写 JPG，先改文件名小写）
+   #imageUrl = "/images/hero.jpg" 
    # imageTitle = "Our Premium Products"
    #imageWidth = 1200
    #imageHeight = 600
 
-    # 首页按钮 (CTA)
     [[params.profileMode.buttons]]
       name = "View All Products"
       url = "/products/"
@@ -51,7 +48,8 @@ theme = "PaperMod"
       name = "Contact / Get Quote"
       url = "/contact/"
 
-  # 可选：如果想显示简单文本区（备用）
   [params.homeInfoParams]
     Title = "Welcome to Our Site"
     Content = "We are a professional manufacturer of motorcycle handlebar switches from Anhui, China. Own factory and brand."
+  [markup.goldmark.renderer]
+    unsafe = true
