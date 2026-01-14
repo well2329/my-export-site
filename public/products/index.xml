@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Products on Premium Motorcycle Handlebar Switches</title>
+    <link>http://localhost:1313/products/</link>
+    <description>Recent content in Products on Premium Motorcycle Handlebar Switches</description>
+    <generator>Hugo -- 0.154.5</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/products/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Universal 7-Function Motorcycle Handlebar Switch Assembly</title>
+      <link>http://localhost:1313/products/universal-7function-switch/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/products/universal-7function-switch/</guid>
+      <description>Waterproof left &amp;amp; right handlebar controls for motorcycles and scooters - IP65 rated</description>
+    </item>
+  </channel>
+</rss>
